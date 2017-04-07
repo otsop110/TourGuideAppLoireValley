@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Loire Valley Tour Guide App</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="category_castles">Castles</string>
+    <string name="category_vineyards">Wine</string>
+    <string name="category_restaurants">Eat</string>
+    <string name="category_accomodation">Sleep</string>
+
+    <string name="closluce_name">Château du Clos Lucé</string>
+    <string name="closluce_address">2, rue du Clos Lucé\n37400 Amboise</string>
+
+    <string name="chenonceau_name">Château de Chenonceau</string>
+    <string name="chenonceau_address">Parc de Chenonceau\n37150 Chenonceaux</string>
+
+
+    <string name="chambord_name">Château de Chambord</string>
+    <string name="chambord_address">Château de Chambord\n41250 Chambord</string>
+    "", "",
+
+    <string name="usse_name">Château d\'Ussé</string>
+    <string name="usse_address">Château d\'Ussé\n37420 Rigny-Ussé</string>
+
+    <string name="azaylerideau_name">Château d\'Azay-le-Rideau"</string>
+    <string name="azaylerideau_address">22 rue Balzac\n37190 Azay-le-Rideau</string>
+
+    <string name="blois_name">Château de Blois</string>
+    <string name="blois_address">Place du Château\n41000 Blois</string>
+
+    <string name="chaumont_name">Château de Chaumont-sur-Loire</string>
+    <string name="chaumont_address">Rue de Bellevue\n41150 Chaumont-sur-Loire</string>
+
+    <string name="amboise_name">Château d\'Amboise</string>
+    <string name="amboise_address">Place Michel Debré\n37400 Amboise</string>
+
+    <string name="bourgueil_name">Bourgueil, a red made from Cabernet Franc grapes.</string>
+    <string name="bourgueil_address">Domaine de la Chevalerie\n7-14, rue de Peu Muleau, 37140 Restingné</string>
+
+    <string name="vouvray_name">Vouvray, produced from Chenin Blanc grapes.</string>
+    <string name="vouvray_address">Domaine Marc Bredif\n87 Quai de la Loire, 37210 Rochecorbon</string>
+
+    <string name="menetousalon_name">Menetou-Salon is a village at the eastern end of the valley with its own appellation.</string>
+    <string name="menetousalon_address">Domaine Philippe Gilbert\nLes Faucards, 18510 Menetou-Salon</string>
+
+    <string name="pouillyfume_name">Pouilly-Fumé is a famous white Sauvignon Blanc appellation.</string>
+    <string name="pouillyfume_address">Domaine Serge Dagueneau et Filles\nLes Berthiers, 58150 Pouilly-sur-loire</string>
+
+    <string name="sancerre_name">Sancerre made from Sauvignon Blanc grapes grown around the villages of the same name.</string>
+    <string name="sancerre_address">Domaine Pierre Martin\n18300 Sancerre</string>
+
+    <string name="muscadet_name">Muscadet, a white wine, made at the western end of the valley near Nantes.</string>
+    <string name="muscadet_address">Château du Cleray\n44330 Vallet</string>
+
+    <string name="aigledor_name">L\'Aigle d\'Or, Azay-le-Rideau\nJacques Guillaumat\'s modern French cuisine down the road from Chateau de Chenonceau.</string>
+    <string name="aigledor_address">10 Avenue Adélaïde Riche\ntel. +33 2 47 45 24 58</string>
+
+    <string name="chevalrouge_name">Auberge du Cheval Rouge, Chisseaux\nJacques Guillaumat\'s modern French cuisine down the road from Chateau de Chenonceau.</string>
+    <string name="chevalrouge_address">30 rue Nationale\ntel. +33 2 47 23 86 67</string>
+
+    <string name="cafedelapromenade_name">Café de la Promenade, Bourgueil\nRelaxed and welcoming auberge in an old gasworks on the outskirts of the wine town of Bourgueil.</string>
+    <string name="cafedelapromenade_address">1 avenue du Général de Gaulle\ntel. +33 2 47 95 10 87</string>
+
+    <string name="cassecailloux_name">Casse-Cailloux, Tours\nChef Hervé Chardonneau’s contemporary French menus are inventive, well-cooked and great value for money.</string>
+    <string name="cassecailloux_address">26 rue Jean Fouquet\ntel. +33 2 47 61 60 64</string>
+
+    <string name="hotelfleuray_name">Hotel Le Fleuray, Amboise\ntranquil setting in the country just outside Amboise, and stylish comfort at very reasonable rates.</string>
+    <string name="hotelfleuray_address">Cangey, Amboise\ntel. +33 2 47 56 09 25</string>
+
+    <string name="grandmonarque_name">Le Grand Monarque, Azay-le-Rideau\n25-room hotel created from an 18th-century coaching inn and a mansion, a pleasure after a day of cycling.</string>
+    <string name="grandmonarque_address">1 rue du Chateau\ntel. +33 2 47 45 40 08</string>
+
+    <string name="lemouton_name">Le Mouton, Blaison Gohier\nDutch owner Mirjam Ekkelboom created this homely 5-room, riverside bed-and-breakfast.</string>
+    <string name="lemouton_address">Port de Vallée\ntel. +33 2 41 68 27 45</string>
+
+    <string name="rosaraie_name">Hotel la Roseraie, Chenonceaux\nEveryone from Churchill to Rockefeller have stayed at this lovely old-fashioned French auberge.</string>
+    <string name="rosaraie_address">7 rue du Docteur Bretonneau\ntel. +33 2 47 23 90 09</string>
+</resources>
